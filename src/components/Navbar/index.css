@@ -1,0 +1,61 @@
+/* Write your CSS here */
+.navDark {
+  height: 20vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  font-size: 10px;
+  background-color: black;
+}
+.navLight {
+  height: 20vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: black;
+  font-size: 10px;
+  background-color: white;
+}
+
+.theme {
+  height: 35px;
+  width: 35px;
+}
+.theme-btn {
+  height: 35px;
+  width: 35px;
+  border: none;
+  outline:none;
+  cursor:pointer;
+  background-color: transparent;
+}
+.ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+.items {
+  font-weight: 350;
+  font-size:20px;
+  margin-right:10px;
+}
+.link{
+    text-decoration: none;
+    cursor:pointer;
+}
+.logo{
+    height:35px;
+    width:35px;
+}
+.textDark{
+    color:white;
+    font-weight:500;
+
+}
+.textLight{
+    color:black;
+    font-weight:500;
+    
+}

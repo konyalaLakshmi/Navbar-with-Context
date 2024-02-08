@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.bg-container-dark{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color:white;
+    font-size:12px;
+    height:100vh
+}
+.c{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+.bg-container-light{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    color:black;
+    font-size:12px;
+    height:100vh;
+}
+.img{
+    height:150px;
+    width:150px;
+}
